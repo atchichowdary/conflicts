@@ -1,2 +1,2 @@
 conflicts file
-x=5
+x=10
