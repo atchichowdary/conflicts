@@ -1,0 +1,2 @@
+conflicts file
+x=5
